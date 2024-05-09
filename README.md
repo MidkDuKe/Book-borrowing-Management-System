@@ -11,8 +11,7 @@
 # 快速开始
 #### 后端配置
 - 配置数据库和Redis：src/main/resources/application.yml
-- Maven获取target文件
-- 
+- Maven获取target文件 
 #### 前端配置
 ```language
 npm install
